@@ -1,5 +1,6 @@
 # LoT-nuScenes: A Virtual Long-Tail Scenario Dataset for Parallel Vision and Parallel Vehicles
 Yang Mi，Yunjie Ji，Keqiu Wang，Yadong Wang，Tianyu Shen*，Kunfeng Wang*
+
  (*Corresponding authors)  
 ## Framework Overview
 We constructed accident scenarios in the Carla simulator under different states, including six categories of motor vehicle accidents, one category of pedestrian accidents, and combining three weather extremes, three time periods, and five categories of locations. At the same time, we collected accident events in the format of the nuScenes dataset, which is equipped with multi-sensors and a 360° view. This dataset not only fills the gap of accident scenario data, but also achieves a long-tailed normalized distribution.
