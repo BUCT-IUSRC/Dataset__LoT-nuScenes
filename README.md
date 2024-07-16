@@ -13,6 +13,5 @@ We collected the above events using the nuScenes dataset format with four annota
 ## Install
 ### Environment
 Ubuntu22.04  build Carla=0.9.15   See [https://carla.readthedocs.io/en/latest/build_linux/](https://carla.readthedocs.io/en/latest/build_linux/)
-`pip install carla=0.9.15`
 # Contact Us
  If you have any problem about this work, please feel free to reach us out at  2022210517@buct.edu.cn.
