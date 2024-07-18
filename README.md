@@ -7,9 +7,10 @@ We constructed accident scenarios in the Carla simulator under different states,
 ## ![tu2.png](https://cdn.nlark.com/yuque/0/2024/png/46551520/1721093518067-69251208-f39c-4149-b439-52e8af386849.png#averageHue=%23e4e2de&clientId=u10cd986a-175d-4&from=drop&id=EOU1m&originHeight=858&originWidth=1801&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=1163925&status=done&style=none&taskId=ua9dc468b-271b-4740-90be-edb001645ef&title=)
 ## Accident Events and Annotation of Data
 The seven types of accidents are: rear-end collisions, lane changes, reversing traffic, collisions at intersections and sudden pedestrian crossings. Rear-end collisions are categorised as two-vehicle rear-end collisions and multi-vehicle rear-end collisions, and lane changing is categorised as collisions with adjacent vehicles and collisions with guardrails. Meanwhile, we use the format of nuScenes dataset for accident event collection. The following is a display with labelled boxes for two-vehicle rear-end and contraflow:
-![7fbb8688dbb3b368ff9a63f234617d0a-ezgif.com-video-to-gif-converter (1).gif](https://cdn.nlark.com/yuque/0/2024/gif/46551520/1721291995067-f9508ba7-259b-46d5-89cd-dbaea2ee74e7.gif#averageHue=%23010101&clientId=u96e47199-ea04-4&from=paste&height=300&id=uc30b1643&originHeight=450&originWidth=800&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=10119812&status=done&style=none&taskId=ua88dd013-67e3-4a7a-b48a-0d6a37b00cd&title=&width=533.3333333333334)
+![examples-ezgif.com-video-to-gif-converter.gif](https://cdn.nlark.com/yuque/0/2024/gif/46551520/1721292250323-166dc7bc-da5e-40d6-ac64-7ee7cd8b0e66.gif#averageHue=%23020202&clientId=u96e47199-ea04-4&from=paste&height=300&id=uc0ba56e7&originHeight=450&originWidth=800&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=8549414&status=done&style=none&taskId=uaa05cb72-93d9-4f10-8bb1-28dc7725eae&title=&width=533.3333333333334)
 ## Install
 ### Environment
 Ubuntu22.04  build Carla=0.9.15   See [https://carla.readthedocs.io/en/latest/build_linux/](https://carla.readthedocs.io/en/latest/build_linux/)
+`pip install carla=0.9.15`
 # Contact Us
  If you have any problem about this work, please feel free to reach us out at  2022210517@buct.edu.cn.
